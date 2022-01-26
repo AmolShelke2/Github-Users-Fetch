@@ -1,7 +1,7 @@
 # Github-Users-Fetch
 
 Hey everyone this Project is a very basic project created with html css and JavaScript and github API. In this project user can search for a github user and then it will show the 
-profile of the searched person and if the searched person not exist it will throw and error with the message of No user with this profile name. 
+profile of the searched person and if the searched person not exist it will throw an error with the message of No user with this profile name. 
 hope you love it
 
 # live website 
